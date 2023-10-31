@@ -1,0 +1,1 @@
+window.alert("to kese ho ap log");
